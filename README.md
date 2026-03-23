@@ -25,7 +25,7 @@
 
 > _Scientist turned developer — from pipettes to pull requests._
 
-Junior Full-Stack Developer transitioning from pharmaceutical and clinical research, where analytical thinking and creative problem-solving are everything. After years in highly regulated environments designing automation workflows and translating complex requirements into practical digital solutions, I discovered that software development was the natural next step.
+Junior Full-Stack Developer transitioning from pharmaceutical and clinical research. Building fullstack applications with JavaScript and Ruby and have expanded my experience to mobile applications. Focused on learning and expanding my experience web and mobile development, I am currently learning to build apps in Python and integrating cloud computing with Azure.
 
 ---
 
