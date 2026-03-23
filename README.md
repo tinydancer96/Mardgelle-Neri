@@ -27,8 +27,6 @@
 
 Junior Full-Stack Developer transitioning from pharmaceutical and clinical research, where analytical thinking and creative problem-solving are everything. After years in highly regulated environments designing automation workflows and translating complex requirements into practical digital solutions, I discovered that software development was the natural next step.
 
-I chose **Northcoders** to formalise that transition and gain hands-on, industry-relevant experience. Driven by a passion for building tools, I look forward to creating apps that help with real-world issues.
-
 ---
 
 ## 🛠️ Tech Stack
